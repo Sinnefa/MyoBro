@@ -5,7 +5,7 @@
 # MyoBro Computational Engine
 
 Real-Time Postprandial Macronutrient Kinetics & In Silico Physiology.
-[API Documentation](API.md)!
+
 </div>
 
 <div id="overview" class="section">
@@ -23,9 +23,10 @@ The MyoBro engine simulates continuous metabolic responses without
 relying on resource-intensive Ordinary Differential Equation (ODE)
 solvers, establishing a new standard for predictive human metabolism.
 
-[Advance Dashbaord](https://www.myobro.com/dashboard)
-[POC Homepage](https://www.myobro.com)
-[POC Android App](https://play.google.com/store/apps/details?id=com.myobro.app)
+[Advance Dashbaord](https://www.myobro.com/dashboard)<br>
+[API Documentation](API.md)
+[POC Homepage](https://www.myobro.com)<br>
+[POC Android App](https://play.google.com/store/apps/details?id=com.myobro.app)<br>
 
 <div class="grid-list" style="grid-template-columns:repeat(3,1fr)">
 
