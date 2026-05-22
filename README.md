@@ -188,8 +188,7 @@ Dashboard</a></td>
 <td>High-concurrency JSON endpoint built for edge nodes, wearable
 architecture, and enterprise digital health platforms.</td>
 <td>
-<a href="[https://www.myobro.com/dashboard/](https://github.com/Sinnefa/MyoBro/blob/main/API.md)" target="_blank">Launch
-Dashboard</a></td>
+<a href="https://github.com/Sinnefa/MyoBro/blob/main/API.md" target="_blank">API Doc</a></td>
 </tr>
 </tbody>
 </table>
