@@ -5,7 +5,7 @@
 # MyoBro Computational Engine
 
 Real-Time Postprandial Macronutrient Kinetics & In Silico Physiology.
-
+[API Documentation](API.md)!
 </div>
 
 <div id="overview" class="section">
@@ -182,8 +182,8 @@ Dashboard</a></td>
 <td><strong>Token-Based API</strong></td>
 <td>High-concurrency JSON endpoint built for edge nodes, wearable
 architecture, and enterprise digital health platforms.</td>
-<td><a href="https://www.myobro.com/api/documentation/"
-target="_blank">API Docs</a></td>
+<td>
+[API Documentation](API.md)!</td>
 </tr>
 </tbody>
 </table>
