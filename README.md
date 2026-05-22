@@ -4,7 +4,7 @@
 
 # MyoBro Computational Engine
 
-Real-Time Postprandial Macronutrient Kinetics & In Silico Physiology.
+Real-Time In Silico Postprandial Macronutrient Kinetics &  Physiology.
 
 </div>
 
