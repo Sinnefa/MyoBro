@@ -23,6 +23,10 @@ The MyoBro engine simulates continuous metabolic responses without
 relying on resource-intensive Ordinary Differential Equation (ODE)
 solvers, establishing a new standard for predictive human metabolism.
 
+[Advance Dashbaord](https://www.myobro.com/dashboard)
+[POC Homepage](https://www.myobro.com)
+[POC Android App](https://play.google.com/store/apps/details?id=com.myobro.app)
+
 <div class="grid-list" style="grid-template-columns:repeat(3,1fr)">
 
 <div class="feature-card" style="text-align:center">
@@ -183,7 +187,8 @@ Dashboard</a></td>
 <td>High-concurrency JSON endpoint built for edge nodes, wearable
 architecture, and enterprise digital health platforms.</td>
 <td>
-[API Documentation](API.md)!</td>
+<a href="[https://www.myobro.com/dashboard/](https://github.com/Sinnefa/MyoBro/blob/main/API.md)" target="_blank">Launch
+Dashboard</a></td>
 </tr>
 </tbody>
 </table>
