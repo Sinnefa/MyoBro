@@ -27,6 +27,7 @@ solvers, establishing a new standard for predictive human metabolism.
 [API Documentation](API.md)<br>
 [Real-Time Advanced Dashbaord](https://www.myobro.com/dashboard)<br>
 [POC Android App](https://play.google.com/store/apps/details?id=com.myobro.app)<br>
+[Scientific Paper](http://arxiv.org/abs/2605.27459)<br>
 
 <div class="grid-list" style="grid-template-columns:repeat(3,1fr)">
 
@@ -171,7 +172,7 @@ platform.
 <td><strong>Scientific Paper</strong></td>
 <td>Read the full methodology, algorithmic complexity analysis, and
 physiological benchmarks.</td>
-<td><a href="#link-to-pdf-pre-print">Link To Paper</a></td>
+<td><a href="http://arxiv.org/abs/2605.27459">Link To Paper</a></td>
 </tr>
 <tr class="even">
 <td><strong>Advanced Dashboard</strong></td>
